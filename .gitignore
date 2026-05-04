@@ -1,0 +1,25 @@
+# Build directories
+build/
+bin/
+lib/
+cmake-build-*/
+
+# macOS metadata & system files
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled binaries / dynamic libraries
+*.o
+*.a
+*.so
+*.dylib
+*.out
+cas_demo
