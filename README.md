@@ -155,3 +155,6 @@ it using:
   hierarchy inclusion/exclusion behavior, allocator alignment guarantees,
   O(1) coalescing, fragmentation metrics, corruption/double-free detection,
   and randomized churn stress tests validated via `validate_heap()`.
+
+## Tools Used
+This project was developed using Claude and ChatGPT for code autocompletion, refactoring suggestions, debugging, and writing initial boilerplate code. All code was reviewed, tested, and integrated manually.
